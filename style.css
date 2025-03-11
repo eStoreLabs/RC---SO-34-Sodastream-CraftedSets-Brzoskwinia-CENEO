@@ -729,8 +729,8 @@
     content: '';
     display: block;
     position: absolute;
-    top: -75%;
-    left: 50%;
+    top: -67%;
+    left: 64%;
     background: url('./static/img/arrow.png') no-repeat center center;
     background-size: contain;
     width: 191px;

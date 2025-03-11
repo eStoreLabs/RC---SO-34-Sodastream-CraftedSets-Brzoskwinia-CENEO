@@ -928,7 +928,7 @@
     width: 90%;
     margin: 0;
     padding-left: 10%;
-    text-align: left;
+    text-align: center;
     font-size: 17px;
   }
   #es-rc-content.es-rc .es-triple__title {
@@ -1257,9 +1257,9 @@
   #es-rc-content.es-rc .es-kv__text {
     margin: 0 auto;
     padding-bottom: 60px;
-    font-size: 20px;
-    width: 95%;
+    width: 74%;
     font-size: 21px;
+    padding-left: 0;
     line-height: 1.35;
   }
   #es-rc-content.es-rc .es-title {
